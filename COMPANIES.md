@@ -14,8 +14,8 @@ goopick-notion/
 
 | 코드 | 회사명 | 유형 | 대표 |
 |------|--------|------|------|
-| goopick | 구픽 | - | - |
-| dojangminjok | 도장민족 | - | - |
+| goopick | 구픽 | 법인 | 진수근 |
+| dojangminjok | 도장민족 | 법인 | 진수근 |
 | madstamp | 매드스탬프 | 개인회사 | 강유 |
 | madstampinc | 매드스탬프 | 법인회사 | 강유 |
 
