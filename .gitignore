@@ -1,0 +1,19 @@
+# 환경변수 (API 키 보호)
+config/.env
+
+# 백업 데이터 (용량 큼)
+*/backups/*
+!*/backups/.gitkeep
+
+# 내보내기 결과
+*/exports/*
+!*/exports/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
